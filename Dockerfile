@@ -1,6 +1,6 @@
 FROM ubuntu:bionic-20190612
 
-LABEL maintainer="pes.mohan@gmail.com"
+LABEL maintainer="rithika.sridharan@hpe.com"
 
 ENV REDIS_VERSION=4.0.9 \
     REDIS_USER=redis \
